@@ -1,0 +1,26 @@
+{
+  "Entries": [
+    {
+      "Id": "578d7b57-ecf0-47b5-b783-6a1c75bf5332",
+      "CreatedAt": "2025-01-28T12:08:31.0164183Z",
+      "Title": "pizza",
+      "Description": "nudfv",
+      "Value": 150,
+      "CategoryId": "5d4a294b-9bc8-4d80-b394-8bce8f2cb855"
+    },
+    {
+      "Id": "9592d6ca-1076-4309-8a82-cf68cd8181bc",
+      "CreatedAt": "2025-01-28T12:09:58.8533205Z",
+      "Title": "neriune",
+      "Description": "ssdvlndinv",
+      "Value": 222,
+      "CategoryId": "edf236f7-e5ab-44ef-88e5-1b21bd1e3245"
+    }
+  ],
+  "Categories": {
+    "00000000-0000-0000-0000-000000000000": "No category",
+    "5d4a294b-9bc8-4d80-b394-8bce8f2cb855": "food",
+    "edf236f7-e5ab-44ef-88e5-1b21bd1e3245": "rent"
+  },
+  "CurrencySign": "$"
+}
