@@ -49,3 +49,4 @@ F:\Download 003\WinForms-Expense-Manager-master\WinForms-Finance-Manager\bin\Deb
 F:\Download 003\WinForms-Expense-Manager-master\WinForms-Finance-Manager\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 F:\Download 003\WinForms-Expense-Manager-master\WinForms-Finance-Manager\obj\Debug\net6.0-windows\WinForms-Expense-Manager.csproj.AssemblyReference.cache
 F:\Download 003\WinForms-Expense-Manager-master\WinForms-Finance-Manager\obj\Debug\net6.0-windows\WinForms.1D254ABB.Up2Date
+F:\Download 003\WinForms-Expense-Manager-master\WinForms-Finance-Manager\obj\Debug\net6.0-windows\WinForms-Expense-Manager.sourcelink.json

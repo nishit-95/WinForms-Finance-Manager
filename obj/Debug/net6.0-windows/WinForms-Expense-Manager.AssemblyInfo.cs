@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinForms-Expense-Manager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d03bfc34d1d290fa4c42f20a6535a63bb93ee67")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinForms-Expense-Manager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinForms-Expense-Manager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
